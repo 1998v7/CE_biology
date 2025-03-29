@@ -1,0 +1,5 @@
+name: "cath_10arch_ca"
+
+data_dir: "./cache/cv_data"
+num_folds: 10
+num_classes: 10

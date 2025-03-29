@@ -27,3 +27,6 @@ Temporary Items
 .idea/
 logs/
 checkpoints/
+cache/
+__pycache__/
+results/
